@@ -43,7 +43,7 @@ pip install pytesseract pdf2image Pillow
 
 2. Run the tool:
 ```bash
-python Ocr_converter_1.1.py
+python Ocr_converter.py
 ```
 
 3. Converted files will be saved in OCR_file directory
